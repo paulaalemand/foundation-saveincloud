@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "c61aca028b4a05f3",
+    "type": "split",
+    "children": [
+      {
+        "id": "e1780c561b5ebee8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d42c2d4b8a15af42",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ef8d3bc7d1e839ba",
+    "type": "split",
+    "children": [
+      {
+        "id": "e277bc87e9803e3f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1fb5dc15412c9a7e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7459659c507e89ed",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "05bfd52ebd2aeb24",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "right": {
+    "id": "f36577004d6dfd43",
+    "type": "split",
+    "children": [
+      {
+        "id": "b85e92ee7771db97",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "39e9903de70027ab",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e118e48bf574776a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "221bef197e445e92",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d8cce0d3edc5b3a8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d42c2d4b8a15af42",
+  "lastOpenFiles": [
+    "treinamentos/MySQL.md",
+    "personal/Pasted image 20240328090650.png",
+    "personal/treinamentos/Virtuozzo.md",
+    "personal/treinamentos/SaveInCloud x AWS.md",
+    "personal/treinamentos/Python.md",
+    "personal/treinamentos/Plataforma e Conexões.md",
+    "personal/treinamentos/Node.js.md",
+    "personal/treinamentos/NGINX.md",
+    "personal/treinamentos/MySQL.md",
+    "personal/treinamentos/DNS.md",
+    "personal/treinamentos",
+    "personal/topicos/a estudar/tópicos.md",
+    "personal/topicos/a estudar",
+    "personal/topicos",
+    "personal/roadmaps/devops/6.1. Web Servers.md",
+    "personal/roadmaps/devops/6. Serves, Loaders, Proxys.md",
+    "personal/roadmaps/devops/5. VCS Hosting.md",
+    "personal/roadmaps/devops/4. Version Control - Git.md",
+    "personal/roadmaps/devops/3.1 Bash Terminal.md",
+    "personal/roadmaps/devops",
+    "personal/roadmaps",
+    "personal/onboarding/Comece por aqui.md",
+    "personal/onboarding",
+    "personal/devops/2 - Test Driven Development.md",
+    "personal/devops/1 - What's devops.md",
+    "personal/devops",
+    "personal/burocraticos/Acessos.md",
+    "personal/burocraticos",
+    "personal/assets/images/Pasted image 20240327175201.png",
+    "personal/assets/images/Pasted image 20240327173646.png",
+    "personal/assets/images/Pasted image 20240327173617.png",
+    "personal/assets/images/Pasted image 20240327173124.png",
+    "personal/assets/images/Pasted image 20240327161331.png",
+    "personal/assets/images/Pasted image 20240327160550.png",
+    "personal/assets/images/Pasted image 20240327160501.png",
+    "personal/assets/images/Pasted image 20240327160309.png",
+    "personal/assets/images/Pasted image 20240327155414.png",
+    "personal/assets/images",
+    "personal/assets",
+    "treinamentos/SaveInCloud x AWS.md",
+    "roadmaps/devops/3.1 Bash Terminal.md",
+    "treinamentos/DNS.md",
+    "roadmaps/devops/6.1. Web Servers.md",
+    "roadmaps/devops/6. Serves, Loaders, Proxys.md",
+    "roadmaps/devops/5. VCS Hosting.md"
+  ]
+}
